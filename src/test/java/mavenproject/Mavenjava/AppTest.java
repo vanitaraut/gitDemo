@@ -8,5 +8,8 @@ public class AppTest
    public void get()
    {
 	   System.out.println("Hi");
+	   System.out.println("Hi gitchange 2");
+	   System.out.println("Hi gitchange 3");
+	   System.out.println("Hi gitchange 4");
    }
 }
